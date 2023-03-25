@@ -26,5 +26,8 @@
 <a href="https://www.linkedin.com/in/joao-guilherme-97877823b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://twitter.com/JoaoGuiCRF" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
+ </br>
+  
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JoaoGuilhermeMA/count.svg" /></p>
 
 ![snake gif](https://github.com/JoaoGuilhermeMA/JoaoGuilhermeMA/blob/output/github-contribution-grid-snake.svg)
