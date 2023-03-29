@@ -1,4 +1,5 @@
-## Olá!! Eu sou o João
+## 👋 Olá!! Eu sou o João
+- 🌱 Atualmente estou aprendendo ruby on rails
 
 <div>
 <a href="https://github.com/JoaoGuilhermeMA">
