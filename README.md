@@ -10,8 +10,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<details closed>
-
 ### Habilidades principais:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
