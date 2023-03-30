@@ -1,8 +1,8 @@
-## 👋 Olá!! 
-- Meu nome é João Guilherme
-- Curso Análise e desenvolvimento de Sistemas na UFRN
-- Atualmente estou aprendendo ruby on rails no padrão MVC
-- Estou iniciando meus estudos na aréa de segurança da informação
+## 👋 Olá!! SEJA BEM VINDO!!!
+- Meu nome é João Guilherme;
+- estou cursando Análise e desenvolvimento de Sistemas na UFRN;
+- Atualmente estou aprendendo ruby on rails no padrão MVC;
+- Estou iniciando meus estudos na aréa de segurança da informação e estou bastante entusiasmdo com essa área;
 
 <div>
 <a href="https://github.com/JoaoGuilhermeMA">
