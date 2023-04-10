@@ -1,8 +1,10 @@
-## 👋 Olá!! SEJA BEM VINDO!!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=1500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Ol%C3%A1+sou+o+Jo%C3%A3o;seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+- Olá, é um prazer ter você aqui;
 - Meu nome é João Guilherme;
-- estou cursando Análise e desenvolvimento de Sistemas na UFRN;
-- Atualmente estou aprendendo ruby on rails no padrão MVC;
-- Estou iniciando meus estudos na aréa de segurança da informação e estou bastante entusiasmdo com essa área;
+- Estou cursando Análise e desenvolvimento de Sistemas na UFRN;
+- Estou iniciando meus estudos na aréa de segurança da informação e é nessa área que pretendo atuar;
+- Em paralelo a isso estou aprendendo ruby on rails no padrão MVC;
 
 <div>
 <a href="https://github.com/JoaoGuilhermeMA">
