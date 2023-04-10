@@ -6,6 +6,8 @@
 - Estou iniciando meus estudos na aréa de segurança da informação e é nessa área que pretendo atuar;
 - Em paralelo a isso estou aprendendo ruby on rails no padrão MVC;
 
+![](https://komarev.com/ghpvc/?username=JoaoGuilhermeMA&color=red&label=PROFILE+VIEWS)
+
 <div>
 <a href="https://github.com/JoaoGuilhermeMA">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=7&theme=dracula"/>
