@@ -12,6 +12,12 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+
+ 
+  [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra](https://github-readme-stats-joaoguilhermema.vercel.app/))]([https://github.com/anuraghazra/github-readme-stats] (https://github.com/JoaoGuilhermeMA/github-readme-stats#top-languages-card)
+  
+
+
 ### Habilidades principais:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
