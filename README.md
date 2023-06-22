@@ -5,14 +5,8 @@
 - Estou cursando Análise e desenvolvimento de Sistemas na UFRN;
 - Estou iniciando meus estudos na aréa de segurança da informação e é nessa área que pretendo atuar;
 - Em paralelo a isso estou aprendendo ruby on rails no padrão MVC;
-
-<div>
- <a href="https://github.com/JoaoGuilhermeMA">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeMA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-### Habilidades principais:
+ 
+  ### Habilidades principais:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
@@ -46,6 +40,13 @@
 <a href="https://twitter.com/JoaoGuiCRF" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
  </br>
+
+<div>
+ <a href="https://github.com/JoaoGuilhermeMA">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=10&theme=tokyonight&hide=Batchfile"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeMA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
   
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JoaoGuilhermeMA/count.svg" /></p>
 
