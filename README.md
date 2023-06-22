@@ -48,6 +48,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeMA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoGuilhermeMA)](https://github.com/anuraghazra/github-readme-stats)
+
   
  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JoaoGuilhermeMA/count.svg" /></p>
 
