@@ -1,21 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=1500&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Ol%C3%A1+sou+o+Jo%C3%A3o;seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-- Olá, é um prazer ter você aqui;
-- Meu nome é João Guilherme;
-- Estou cursando Análise e desenvolvimento de Sistemas na UFRN;
-- Estou iniciando meus estudos na aréa de segurança da informação e é nessa área que pretendo atuar;
-- Em paralelo a isso estou aprendendo ruby on rails no padrão MVC;
+- Cursando Análise e desenvolvimento de Sistemas na UFRN;
  
-  ### Habilidades principais:
+  ## Habilidades:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
-</div>
-
-### Outras habilidades:
-<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -26,9 +19,8 @@
 
 ### Estou estudando no momento:
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigh<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
 </div>          
 
 ## Contatos:
