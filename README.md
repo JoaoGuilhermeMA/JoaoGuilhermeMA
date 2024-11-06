@@ -23,7 +23,7 @@ I began programming in 2020 with C++. Since then, I've delved into various langu
 
 <b>My GitHub Stats</b>
 <div>
- <a href="https://github.com/JoaoGuilhermeMA" align="left"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=10&hide=SCSS,batchfile,Qmake,rust,R&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <a href="https://github.com/JoaoGuilhermeMA" align="left"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuilhermeMA&layout=compact&langs_count=10&hide=SCSS,batchfile,Qmake,rust,R&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%90%Languages" alt="Top Languages" /></a>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoGuilhermeMA&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 <a href="http://www.github.com/JoaoGuilhermeMA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGuilhermeMA&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
